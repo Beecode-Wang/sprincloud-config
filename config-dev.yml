@@ -1,1 +1,2 @@
-teset1 version=1
+config:
+  info: "master tese config info version =1;"
